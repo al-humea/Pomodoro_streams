@@ -1,11 +1,12 @@
 .container {
-  background-color: #77DD77;
+  background-color: #77B5FE;
   display:flex;
   justify-content: center;
   align-items: center;
   height:75px;
   width:360px;
-  border:8px solid #000;
+  border:5px solid #000;
+  border-radius: 10px;
 }
 
 #focus {
@@ -26,7 +27,7 @@
 }
 
 button {
-  background-color: #77DD77;
+  background-color: #77B5FE;
   border: 0;
   padding-left: 0px;
   padding-right: 0px;
